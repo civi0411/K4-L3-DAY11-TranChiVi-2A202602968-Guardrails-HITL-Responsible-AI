@@ -6,7 +6,7 @@
 - **Chương trình:** AI Engineer — Khóa 4 (Level 3)
 - **Repository:** `K4-L3-DAY11-TranChiVi-2A202602968-Guardrails-HITL-Responsible-AI`
 - **Kết quả tự động (scripts/grade.py):** `technical_failure: false` · Packaging: **100% OK** · Contract tests: **10/10 passed** · Smoke tests: **6/6 passed**
-- **Điểm dự kiến:** **100/100 (Base)** + **5 (Bonus B1 Red Leak)**
+- **Điểm dự kiến:** **100/100 (Base)** + **10 (Bonus B2 Red Advance Leak)** = **110/100**
 
 > 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
 > 🎯 **Mục tiêu:** xây **Blue** (phòng thủ), rồi red-team **Red** + **Red Advance**.  

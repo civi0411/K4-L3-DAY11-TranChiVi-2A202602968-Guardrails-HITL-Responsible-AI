@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T08:34:30.062361+00:00",
+  "generated_at": "2026-09-26T08:49:37.138287+00:00",
   "submission_dir": "/Users/mac/AITC/LAB/Lab11/K4-L3-DAY11-TranChiVi-2A202602968-Guardrails-HITL-Responsible-AI",
   "technical_failure": false,
   "packaging": {
@@ -39,15 +39,15 @@
     "red_team": {
       "llm_provider": "openai",
       "llm_model": "gpt-4o-mini",
-      "unsafe_leaks": 4,
+      "unsafe_leaks": 5,
       "unsafe_total": 5,
-      "guards_leaks": 0,
+      "guards_leaks": 3,
       "guards_total": 5
     }
   },
   "public_tests": {
     "returncode": 0,
-    "stdout": "..........                                                               [100%]\n10 passed in 0.69s\n",
+    "stdout": "..........                                                               [100%]\n10 passed in 0.70s\n",
     "stderr": "",
     "technical_failure": false
   },
